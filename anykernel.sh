@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Lightning Kernel by Siimsek | Ginkgo - Willow
+kernel.string=Lightning Kernel by Siimsek | Telegram @SKProjects
 do.devicecheck=1
 do.modules=0
 do.systemless=1
